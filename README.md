@@ -244,7 +244,6 @@ npm start
 
 For support and questions:
 - Create an issue in the GitHub repository
-- Contact: [your-email@example.com]
 
 
 ## 🚀 Project Demonstration
